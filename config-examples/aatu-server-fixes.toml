@@ -1,0 +1,6 @@
+#每个修复可独立开关；修改后重启生效。
+[fixes]
+	#修复雪原村庄牧羊人小屋的拼图入口标记。不是雪屋地牢。
+	snowyShepherdHouse = true
+	#末影人只能拾起西瓜和普通南瓜，仍遵循生物破坏规则。
+	endermanMelonPumpkinOnly = true
